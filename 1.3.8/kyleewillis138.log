@@ -1,0 +1,23 @@
+%cd "C:\Users\k.willis\Documents\Python\1.3.8"
+# Mon, 28 Nov 2016 09:34:41
+#11/28/2016
+
+# Mon, 28 Nov 2016 09:40:41
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Mon, 28 Nov 2016 09:40:53
+validate()
+# Mon, 28 Nov 2016 09:42:39
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Mon, 28 Nov 2016 09:42:49
+validate()
+# Mon, 28 Nov 2016 09:43:05
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Mon, 28 Nov 2016 09:43:08
+validate()
+# Mon, 28 Nov 2016 09:47:28
+#5
+#Line 2 is necessary because you have to initialize the variable guess so you can search for it in answer. Having it in answer makes the user have no input.
+
+# Mon, 28 Nov 2016 09:51:39
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Mon, 28 Nov 2016 09:52:09
+guess_winner(('Amy','Bill','Cathy','Dale'))
+#[Out]# 2
+# Mon, 28 Nov 2016 09:58:40
+%logstop
