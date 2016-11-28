@@ -1,0 +1,155 @@
+%cd "C:\Users\k.willis\Documents\Python\1.3.4"
+# Wed, 02 Nov 2016 09:23:27
+# Kylee Willis 11/2/2016 1.3.4
+
+# Wed, 02 Nov 2016 09:27:02
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmpe7otfk.py"# Wed, 02 Nov 2016 09:29:19
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmp9fkvdm.py"# Wed, 02 Nov 2016 09:29:52
+food_id('apple')
+#[Out]# 'NOT Citrus, Fruit'
+# Wed, 02 Nov 2016 09:31:42
+#2a. 17
+
+# Wed, 02 Nov 2016 09:36:05
+#2bi. citrus = orange
+#2bii. fruit = apple
+#2biii. starchy = potato
+#2biv. not starchy or fruit = pancakes
+# Um, the = is 'input'
+
+# Wed, 02 Nov 2016 09:39:31
+#2c. The program checks the fruit category before it checks the starch one (if it checks it at all), so it wouldn't check the starch category unless the banana wasn't in the fruit category. The banana is in the fruit category, so the program never checks the starch one and doesn't say it's both.
+
+# Wed, 02 Nov 2016 09:48:02
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmptq12o1.py"# Wed, 02 Nov 2016 09:48:08
+food_id_test()
+#[Out]# True
+# Wed, 02 Nov 2016 10:00:36
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmptdtzln.py"# Wed, 02 Nov 2016 10:00:40
+f(12)
+# Wed, 02 Nov 2016 10:02:02
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmpr6tcjb.py"# Wed, 02 Nov 2016 10:02:06
+f(12)
+# Wed, 02 Nov 2016 10:05:44
+% logstop
+%cd "C:\Users\k.willis\Documents\Python\1.3.4"
+# Thu, 03 Nov 2016 09:18:59
+# Kylee Willis 11/3/2016
+
+# Thu, 03 Nov 2016 09:22:32
+f(8)
+# Thu, 03 Nov 2016 09:22:40
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Thu, 03 Nov 2016 09:22:44
+f(8)
+# Thu, 03 Nov 2016 09:26:21
+f(5)
+# Thu, 03 Nov 2016 09:26:34
+f(4.2)
+# Thu, 03 Nov 2016 09:26:57
+#That was 5.
+
+# Thu, 03 Nov 2016 09:28:46
+a = raw_input('Give me a number between 5 and 6: ')
+# Thu, 03 Nov 2016 09:30:00
+a
+#[Out]# u'5.99999'
+# Thu, 03 Nov 2016 09:30:33
+type(a)
+#[Out]# unicode
+# Thu, 03 Nov 2016 09:32:32
+int(float(a))
+#[Out]# 5
+# Thu, 03 Nov 2016 09:32:53
+b = 42
+# Thu, 03 Nov 2016 09:32:56
+a + b
+# Thu, 03 Nov 2016 09:33:47
+a + str(b)
+#[Out]# u'5.9999942'
+# Thu, 03 Nov 2016 09:33:54
+float(a) + b
+#[Out]# 47.99999
+# Thu, 03 Nov 2016 09:40:46
+#6a. A '+' as a concatenation is used to string words and values together, which is probably best stated as rewriting the words/values. As a numeric addition sign, it literally adds values together.
+#6b. I think int(float(a)) works while int(a) doesn't because a is a float and has to be stated as such before becoming something else. It'd be like... maybe absolute value, in a way. You have to find the value inside the bars before multiplying it by anything outside the bars (which isn't exactly what's happening, but...).
+
+# Thu, 03 Nov 2016 09:43:59
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Thu, 03 Nov 2016 09:44:05
+guess_once()
+# Thu, 03 Nov 2016 09:54:44
+#7a. Line 11 has 2 strings and a keyword=value pair. The keyword=value pair adds the ! to the end of the guess, which is probably why there's a '\n' there. (It's not using an empty string.)
+
+# Thu, 03 Nov 2016 09:57:24
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Thu, 03 Nov 2016 09:57:31
+guess_once()
+# Thu, 03 Nov 2016 09:57:42
+guess_once()
+# Thu, 03 Nov 2016 09:58:01
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Thu, 03 Nov 2016 09:58:04
+guess_once()
+# Thu, 03 Nov 2016 09:58:08
+guess_once()
+# Thu, 03 Nov 2016 09:58:14
+guess_once()
+# Thu, 03 Nov 2016 09:58:33
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Thu, 03 Nov 2016 09:58:37
+guess_once()
+# Thu, 03 Nov 2016 09:58:43
+guess_once()
+# Thu, 03 Nov 2016 10:00:19
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Thu, 03 Nov 2016 10:00:24
+guess_once()
+# Thu, 03 Nov 2016 10:00:30
+guess_once()
+# Thu, 03 Nov 2016 10:00:33
+guess_once()
+# Thu, 03 Nov 2016 10:00:40
+guess_once()
+# Thu, 03 Nov 2016 10:00:44
+guess_once()
+# Thu, 03 Nov 2016 10:00:58
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Thu, 03 Nov 2016 10:01:02
+guess_once()
+# Thu, 03 Nov 2016 10:01:57
+#That was 7b. I made the guess > secret part work first, then added the proper phrasing, then took out extra spaces.
+
+# Thu, 03 Nov 2016 10:05:11
+% logstop
+%cd "C:\Users\k.willis\Documents\Python\1.3.4"
+# Fri, 04 Nov 2016 09:18:25
+# 11/4/2016
+
+# Fri, 04 Nov 2016 09:31:07
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Fri, 04 Nov 2016 09:31:21
+quiz_decimal(2, 4)
+# Fri, 04 Nov 2016 09:34:43
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Fri, 04 Nov 2016 09:34:47
+quiz_decimal(2, 4)
+# Fri, 04 Nov 2016 09:35:43
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Fri, 04 Nov 2016 09:35:46
+quiz_decimal(2, 4)
+# Fri, 04 Nov 2016 09:36:18
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Fri, 04 Nov 2016 09:36:20
+quiz_decimal(2, 4)
+# Fri, 04 Nov 2016 09:36:52
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Fri, 04 Nov 2016 09:36:54
+quiz_decimal(2, 4)
+# Fri, 04 Nov 2016 09:40:19
+%run C:/Users/k.willis/Documents/Python/1.3.4/kyleewillis134.py# Fri, 04 Nov 2016 09:40:29
+quiz_decimal(4, 4.1)
+# Fri, 04 Nov 2016 09:41:00
+quiz_decimal(6, 6.3)
+# Fri, 04 Nov 2016 09:41:14
+quiz_decimal(1.9, 2)
+# Fri, 04 Nov 2016 09:41:25
+quiz_decimal(1.9, 2)
+# Fri, 04 Nov 2016 09:48:39
+#That was 8.
+
+# Fri, 04 Nov 2016 10:02:16
+#Conclusion questions:
+#1: If statements allow glass box testing to work. They say that when the statement is something it's not supposed to be, it should be false. They are the glass box tests.
+#2: Test suites run through every block of code. Programmers sometimes write them first to continually check their progress, scan their work so far for bugs.
+
+# Fri, 04 Nov 2016 10:02:28
+% logstop

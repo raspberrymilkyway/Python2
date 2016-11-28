@@ -1,0 +1,167 @@
+%cd "C:\Users\k.willis\Documents\Python\1.3.5"
+# Thu, 10 Nov 2016 09:20:29
+#1.3.5 11/10/2016
+
+# Thu, 10 Nov 2016 09:21:09
+from __future__ import print_function
+# Thu, 10 Nov 2016 09:21:47
+if raw_input('One character: ') == '!':
+    print('Wow', end='!')
+    
+# Thu, 10 Nov 2016 09:22:57
+#6. str if it's words, float if it's a decimal, and int if it's a whole number
+
+# Thu, 10 Nov 2016 09:23:24
+slogan = 'Blue Springs South is the best'
+# Thu, 10 Nov 2016 09:23:33
+type(slogan)
+#[Out]# str
+# Thu, 10 Nov 2016 09:23:36
+slogan
+#[Out]# 'Blue Springs South is the best'
+# Thu, 10 Nov 2016 09:24:35
+type('tr' + "y this")
+#[Out]# str
+# Thu, 10 Nov 2016 09:24:48
+type('tr' + 5)
+# Thu, 10 Nov 2016 09:25:45
+#7. There are two different types of variables for the second problem, whereas there was only one on the first, so the second didn't work.
+
+# Thu, 10 Nov 2016 09:26:21
+slogan[0]
+#[Out]# 'B'
+# Thu, 10 Nov 2016 09:26:25
+slogan[2]
+#[Out]# 'u'
+# Thu, 10 Nov 2016 09:26:33
+slogan[4]
+#[Out]# ' '
+# Thu, 10 Nov 2016 09:26:40
+slogan[30]
+# Thu, 10 Nov 2016 09:26:46
+slogan[-2]
+#[Out]# 's'
+# Thu, 10 Nov 2016 09:29:30
+#8. Each letter, space that's filled in the slogan gets a number which starts at 0. The program finds the letter at that variable, which is what the first 3 commands above did. The slogan[30] didn't work because there was nothing assigned the value of 30. The slogan[-2] went backwards 2 from 0, which made the program go back 2 spaces from the end of the statement.
+
+# Thu, 10 Nov 2016 09:30:05
+slogan[0:5]
+#[Out]# 'Blue '
+# Thu, 10 Nov 2016 09:30:11
+slogan[5:21]
+#[Out]# 'Springs South is'
+# Thu, 10 Nov 2016 09:30:22
+slogan[:5]
+#[Out]# 'Blue '
+# Thu, 10 Nov 2016 09:30:29
+slogan[7:]
+#[Out]# 'rings South is the best'
+# Thu, 10 Nov 2016 09:31:11
+#Blue Springs South is the best
+
+# Thu, 10 Nov 2016 09:31:31
+slogan[27:]
+#[Out]# 'est'
+# Thu, 10 Nov 2016 09:31:36
+slogan[26:]
+#[Out]# 'best'
+# Thu, 10 Nov 2016 09:32:17
+slogan[13:18]
+#[Out]# 'South'
+# Thu, 10 Nov 2016 09:34:01
+slogan[:5] + 'is not my favorite color'
+#[Out]# 'Blue is not my favorite color'
+# Thu, 10 Nov 2016 09:34:18
+#That was 10
+
+# Thu, 10 Nov 2016 09:34:48
+len(slogan)
+#[Out]# 30
+# Thu, 10 Nov 2016 09:34:56
+slogan[29]
+#[Out]# 't'
+# Thu, 10 Nov 2016 09:35:05
+activity = 'theater'
+# Thu, 10 Nov 2016 09:35:14
+len(activity)
+#[Out]# 7
+# Thu, 10 Nov 2016 09:36:17
+#11a. The output is the number of characters in the string, which is 7 because the variable is 'theater'
+
+# Thu, 10 Nov 2016 09:36:38
+activity[1: len(activity)-1]
+#[Out]# 'heate'
+# Thu, 10 Nov 2016 09:40:29
+#11b. The output has the first character and the last character missing. The first one is missing because the slice starts at 1, while the character's spots start counting at 0. The last one is missing because it takes the len(activity) and subtracts one from it (aka 7-1), the result of which isn't included in the output.
+
+# Thu, 10 Nov 2016 09:40:57
+'test goo' in 'Greatest good for the greatest number!'
+#[Out]# True
+# Thu, 10 Nov 2016 09:41:56
+#12. The boolean looks for the slice, in that order, in the string. They don't have to be those words specifically, but that sequence of characters has to be there to return True.
+
+# Thu, 10 Nov 2016 09:50:17
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmppkomp_.py"# Thu, 10 Nov 2016 09:50:41
+how_eligible('This? "Yes." No, not really!')
+# Thu, 10 Nov 2016 09:51:22
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmpvwedlu.py"# Thu, 10 Nov 2016 09:51:24
+how_eligible('This? "Yes." No, not really!')
+# Thu, 10 Nov 2016 09:54:59
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmpyipzqm.py"# Thu, 10 Nov 2016 09:55:02
+how_eligible('This? "Yes." No, not really!')
+#[Out]# 0
+# Thu, 10 Nov 2016 09:57:22
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmpjnuibj.py"# Thu, 10 Nov 2016 09:57:24
+how_eligible('This? "Yes." No, not really!')
+#[Out]# 0
+# Thu, 10 Nov 2016 09:58:16
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmpz_wgsw.py"# Thu, 10 Nov 2016 09:58:19
+how_eligible('This? "Yes." No, not really!')
+# Thu, 10 Nov 2016 10:01:29
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmpuds04p.py"# Thu, 10 Nov 2016 10:01:31
+how_eligible('This? "Yes." No, not really!')
+#[Out]# 1
+# Thu, 10 Nov 2016 10:03:30
+%logstop
+%cd "C:\Users\k.willis\Documents\Python\1.3.5"
+# Fri, 11 Nov 2016 09:19:42
+#11/11/2016
+
+# Fri, 11 Nov 2016 09:24:41
+%run C:/Users/k.willis/Documents/Python/1.3.5/kyleewillis135.py# Fri, 11 Nov 2016 09:25:05
+how_eligible('This? "Yes." No, not really!')
+#[Out]# 1
+# Fri, 11 Nov 2016 09:28:09
+%run C:/Users/k.willis/Documents/Python/1.3.5/kyleewillis135.py# Fri, 11 Nov 2016 09:28:11
+how_eligible('This? "Yes." No, not really!')
+#[Out]# 1
+# Fri, 11 Nov 2016 09:31:54
+%run C:/Users/k.willis/Documents/Python/1.3.5/kyleewillis135.py# Fri, 11 Nov 2016 09:33:39
+%run C:/Users/k.willis/Documents/Python/1.3.5/kyleewillis135.py# Fri, 11 Nov 2016 09:33:42
+how_eligible('This? "Yes." No, not really!')
+#[Out]# 1
+# Fri, 11 Nov 2016 09:39:05
+%run C:/Users/k.willis/Documents/Python/1.3.5/kyleewillis135.py# Fri, 11 Nov 2016 09:39:07
+how_eligible('This? "Yes." No, not really!')
+# Fri, 11 Nov 2016 09:39:25
+how_eligible('This? "Yes." No, not really')
+# Fri, 11 Nov 2016 09:39:45
+how_eligible('This. "Yes." No, not really')
+# Fri, 11 Nov 2016 09:39:59
+how_eligible('haha, yeah.')
+# Fri, 11 Nov 2016 09:40:10
+how_eligible('haha.')
+# Fri, 11 Nov 2016 09:42:07
+len('How many characters are in this sentence?')
+#[Out]# 41
+# Fri, 11 Nov 2016 09:42:53
+a = 'How many characters are in this sentence?'
+# Fri, 11 Nov 2016 09:43:24
+a[40] #last character in the sentence. This is conclusion question 1.
+#[Out]# '?'
+# Fri, 11 Nov 2016 09:51:32
+# Conclusion question 2:
+# The variables and their statements are saved in the RAM, where process compilers compile the files, which are dubbed 'bytecodes.'
+
+# Fri, 11 Nov 2016 09:51:40
+%logstop

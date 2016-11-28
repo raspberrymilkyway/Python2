@@ -1,0 +1,269 @@
+%cd "C:\Users\k.willis\Documents\Python\1.3.7"
+# Wed, 16 Nov 2016 09:29:28
+#11/16/2016 1.3.7
+
+# Wed, 16 Nov 2016 09:30:39
+numbers = [1,2,3,4]
+# Wed, 16 Nov 2016 09:30:58
+for item in numbers:
+    print(item**2)
+    
+# Wed, 16 Nov 2016 09:34:09
+range([start,] stop [, step])
+# Wed, 16 Nov 2016 09:34:18
+range(4)
+#[Out]# [0, 1, 2, 3]
+# Wed, 16 Nov 2016 09:37:42
+range(20, 12,-3)
+#[Out]# [20, 17, 14]
+# Wed, 16 Nov 2016 09:37:51
+range(5,19,2)
+#[Out]# [5, 7, 9, 11, 13, 15, 17]
+# Wed, 16 Nov 2016 09:38:12
+#6. range
+range(4,12,2)
+#[Out]# [4, 6, 8, 10]
+# Wed, 16 Nov 2016 09:38:58
+%run "c:\users\k4410~1.wil\appdata\local\temp\tmphymxo4.py"# Wed, 16 Nov 2016 09:39:02
+days()
+# Wed, 16 Nov 2016 09:44:14
+#8. 
+# eval()
+# compile()
+# id()
+# format()
+
+# Wed, 16 Nov 2016 09:57:22
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Wed, 16 Nov 2016 09:57:36
+roll_hundred_pair()
+# Wed, 16 Nov 2016 09:57:46
+roll_hundred_pair(2,13)
+# Wed, 16 Nov 2016 09:58:05
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Wed, 16 Nov 2016 09:58:09
+roll_hundred_pair()
+# Wed, 16 Nov 2016 09:58:14
+#ew
+
+# Wed, 16 Nov 2016 09:58:55
+picks()
+# Wed, 16 Nov 2016 09:59:40
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Wed, 16 Nov 2016 09:59:46
+roll_hundred_pair()
+# Wed, 16 Nov 2016 10:01:59
+roll_hundred_pair()
+# Wed, 16 Nov 2016 10:03:20
+#10a...
+
+# Wed, 16 Nov 2016 10:03:23
+%logstop
+%cd "C:\Users\k.willis\Documents\Python\1.3.7"
+# Thu, 17 Nov 2016 09:33:39
+#11/17/2016
+
+# Thu, 17 Nov 2016 09:43:16
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:43:24
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:45:05
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:45:07
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:46:36
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:46:38
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:47:04
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:47:05
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:48:13
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:48:15
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:49:33
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:49:35
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:52:15
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:52:18
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:53:35
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:53:37
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:54:49
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:57:04
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:57:06
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:57:31
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:57:32
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:58:03
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:58:05
+roll_hundred_pair()
+# Thu, 17 Nov 2016 09:59:06
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 09:59:08
+roll_hundred_pair()
+# Thu, 17 Nov 2016 10:02:11
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Thu, 17 Nov 2016 10:02:12
+roll_hundred_pair()
+# Thu, 17 Nov 2016 10:02:17
+roll_hundred_pair()
+# Thu, 17 Nov 2016 10:02:20
+roll_hundred_pair()
+# Thu, 17 Nov 2016 10:05:10
+% logstop
+%cd "C:\Users\k.willis\Documents\Python\1.3.7"
+# Fri, 18 Nov 2016 09:25:54
+# 11/18/2016
+
+# Fri, 18 Nov 2016 09:26:43
+roll_hundred_pair()
+# Fri, 18 Nov 2016 09:26:47
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:26:49
+roll_hundred_pair()
+# Fri, 18 Nov 2016 09:28:14
+#That's 10a. I think it's done.
+
+# Fri, 18 Nov 2016 09:31:07
+roll_hundred_pair()
+# Fri, 18 Nov 2016 09:36:49
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:36:56
+dice(1)
+# Fri, 18 Nov 2016 09:40:22
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:40:24
+dice(1)
+# Fri, 18 Nov 2016 09:40:43
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:40:44
+dice(1)
+# Fri, 18 Nov 2016 09:40:50
+dice(5)
+# Fri, 18 Nov 2016 09:40:55
+dice(3)
+# Fri, 18 Nov 2016 09:41:10
+dice(9)
+# Fri, 18 Nov 2016 09:41:19
+#That's 10b. Yay!
+
+# Fri, 18 Nov 2016 09:43:59
+roll_hundred_pair()
+# Fri, 18 Nov 2016 09:44:36
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:44:42
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:44:44
+roll_hundred_pair()
+# Fri, 18 Nov 2016 09:45:00
+roll_hundred_pair()
+# Fri, 18 Nov 2016 09:45:20
+#That got corrected, so now there's 11 bars.
+
+# Fri, 18 Nov 2016 09:53:18
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:53:25
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:54:04
+matches([11,12,13,14,15], [3,8,12,13,17])
+# Fri, 18 Nov 2016 09:54:22
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Fri, 18 Nov 2016 09:54:24
+matches([11,12,13,14,15], [3,8,12,13,17])
+# Fri, 18 Nov 2016 09:54:38
+matches([11,12,18,14,15], [3,8,12,13,17])
+# Fri, 18 Nov 2016 09:54:49
+matches([8,12,18,14,17], [3,8,12,13,17])
+%cd "C:\Users\k.willis\Documents\Python\1.3.7"
+matches([8,12,18,14,17], [3,8,12,13,17])
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py
+matches([8,12,18,14,17], [3,8,12,13,17])
+matches([8,12,13,14,17], [3,8,12,13,17])
+#My canopy stopped working for a few minutes, so I closed out of it, and I just retested this and it works, so I think I'm good. That was 11b. I wanted to do the MasterMind one though. MasterMind is fun.
+% logstop
+# Fri, 18 Nov 2016 10:04:04
+matches([8,12,18,14,17], [3,8,12,13,17])
+# Fri, 18 Nov 2016 10:04:07
+matches([8,12,13,14,17], [3,8,12,13,17])
+# Fri, 18 Nov 2016 10:04:17
+#My canopy stopped working for a few minutes, so I closed out of it, and I just retested this and it works, so I think I'm good. That was 11b. I wanted to do the MasterMind one though. MasterMind is fun.
+
+# Fri, 18 Nov 2016 10:04:26
+% logstop
+%cd "C:\Users\k.willis\Documents\Python\1.3.7"
+# Mon, 21 Nov 2016 09:17:08
+#11/21/2016
+
+# Mon, 21 Nov 2016 09:30:37
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:30:54
+hangmanDisplay('aer', 'earth orbit')
+# Mon, 21 Nov 2016 09:31:08
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:31:10
+hangmanDisplay('aer', 'earth orbit')
+# Mon, 21 Nov 2016 09:33:02
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:33:03
+hangmanDisplay('aer', 'earth orbit')
+# Mon, 21 Nov 2016 09:33:17
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:33:18
+hangmanDisplay('aer', 'earth orbit')
+# Mon, 21 Nov 2016 09:34:39
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:34:40
+hangmanDisplay('aer', 'earth orbit')
+# Mon, 21 Nov 2016 09:35:38
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:35:39
+hangmanDisplay('aer', 'earth orbit')
+# Mon, 21 Nov 2016 09:36:09
+hangmanDisplay('fune', 'program puzzles')
+# Mon, 21 Nov 2016 09:37:00
+#So I got the basic layout of it, but I haven't made it a string yet...
+
+# Mon, 21 Nov 2016 09:40:23
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:40:25
+hangmanDisplay('fune', 'program puzzles')
+# Mon, 21 Nov 2016 09:41:18
+#idk. I'm going to MasterMind. I'll come back to this later if there's time.
+
+# Mon, 21 Nov 2016 09:48:47
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:48:53
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:49:22
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:50:03
+guess['red', 'red','red','green','yellow']
+# Mon, 21 Nov 2016 09:50:25
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:50:27
+guess['red', 'red','red','green','yellow']
+# Mon, 21 Nov 2016 09:50:56
+#seriously? whatever.
+
+# Mon, 21 Nov 2016 09:51:51
+report(['red','red','red','green','yellow'],['red','red','yellow','yellow','black'])
+# Mon, 21 Nov 2016 09:54:50
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Mon, 21 Nov 2016 09:54:52
+report(['red','red','red','green','yellow'],['red','red','yellow','yellow','black'])
+# Mon, 21 Nov 2016 09:55:09
+#how the frick do you do this
+
+# Mon, 21 Nov 2016 10:04:25
+%logstop
+%cd "C:\Users\k.willis\Documents\Python\1.3.7"
+# Tue, 22 Nov 2016 09:17:41
+#11/22/2016
+
+# Tue, 22 Nov 2016 09:25:42
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Tue, 22 Nov 2016 09:25:58
+hangmanDisplay('aer', 'earth orbit')
+# Tue, 22 Nov 2016 09:27:03
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Tue, 22 Nov 2016 09:27:05
+hangmanDisplay('aer', 'earth orbit')
+# Tue, 22 Nov 2016 09:30:14
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Tue, 22 Nov 2016 09:30:15
+hangmanDisplay('aer', 'earth orbit')
+# Tue, 22 Nov 2016 09:31:11
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Tue, 22 Nov 2016 09:31:13
+hangmanDisplay('aer', 'earth orbit')
+# Tue, 22 Nov 2016 09:31:39
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Tue, 22 Nov 2016 09:32:12
+#wrong button
+hangmanDisplay('fune', 'program puzzles')
+# Tue, 22 Nov 2016 09:32:18
+#got it
+
+# Tue, 22 Nov 2016 09:32:27
+#That was 11a completed.
+
+# Tue, 22 Nov 2016 09:57:31
+#I'm going to do the conclusion question
+#Some disadvantages of developing a program that was are your code takes a while to run (longer than it would if you just used a loop, anyway), the code is unnecessarily long, and it's a lot harder for other people to read your code/look at it/ use it as a reference.
+
+# Tue, 22 Nov 2016 09:58:41
+%run C:/Users/k.willis/Documents/Python/1.3.7/kyleewillis137.py# Tue, 22 Nov 2016 09:59:02
+#ok, I'm done. I'm pretty much out of time...
+
+# Tue, 22 Nov 2016 09:59:06
+% logstop
