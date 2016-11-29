@@ -21,3 +21,14 @@ guess_winner(('Amy','Bill','Cathy','Dale'))
 #[Out]# 2
 # Mon, 28 Nov 2016 09:58:40
 %logstop
+%cd "C:\Users\k.willis\Documents\Python\1.3.8"
+# Tue, 29 Nov 2016 09:20:58
+#11/29/2016
+
+# Tue, 29 Nov 2016 09:44:50
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Tue, 29 Nov 2016 09:46:32
+#7. The user might have to guess 100 times (max) or 1 time (min)
+
+# Tue, 29 Nov 2016 10:01:11
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Tue, 29 Nov 2016 10:01:17
+goguess()
