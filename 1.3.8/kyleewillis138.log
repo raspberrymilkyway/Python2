@@ -32,3 +32,32 @@ guess_winner(('Amy','Bill','Cathy','Dale'))
 # Tue, 29 Nov 2016 10:01:11
 %run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Tue, 29 Nov 2016 10:01:17
 goguess()
+%cd "C:\Users\k.willis\Documents\Python\1.3.8"
+# Wed, 30 Nov 2016 08:58:35
+#11/30/2016
+
+# Wed, 30 Nov 2016 09:02:11
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Wed, 30 Nov 2016 09:02:18
+goguess()
+%cd "C:\Users\k.willis\Documents\Python\1.3.8"
+# Wed, 30 Nov 2016 09:14:35
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Wed, 30 Nov 2016 09:14:38
+goguess()
+# Wed, 30 Nov 2016 09:17:06
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Wed, 30 Nov 2016 09:17:09
+goguess()
+# Wed, 30 Nov 2016 09:17:37
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Wed, 30 Nov 2016 09:17:39
+goguess()
+# Wed, 30 Nov 2016 09:28:17
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Wed, 30 Nov 2016 09:28:18
+6
+#[Out]# 6
+# Wed, 30 Nov 2016 09:28:24
+%run C:/Users/k.willis/Documents/Python/1.3.8/kyleewillis138.py# Wed, 30 Nov 2016 09:28:27
+goguess()
+# Wed, 30 Nov 2016 09:33:45
+#9. You need 6000 guesses to be entirely sure you're correct because there are 6000 numbers between 1 and 6000, and you have to be sure that your answer is actually the right answer, even if it's the only possible number left.
+
+# Wed, 30 Nov 2016 09:35:12
+%logstop

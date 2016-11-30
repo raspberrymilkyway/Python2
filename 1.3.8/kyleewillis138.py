@@ -48,13 +48,13 @@ def goguess():
     correct = random.choice(range(1,20))
     guesses = 1
     print('I have a number between 1 and 20 inclusive.')
-    while raw_input() != correct:
-        haha = raw_input()
+    haha = 42
+    while haha != correct:
+        haha = int(raw_input())
         if haha > correct:
-            print(haha + ' is too high.')
+            print(haha, ' is too high.')
             guesses += 1
-        elif haha < correct:
-            print(haha + ' is too low.')
+        if haha < correct:
+            print(haha, ' is too low.')
             guesses += 1
-    print('Right! My number is ', correct, '! You guessed in ', guesses, 'guesses!')
-    return guesses
+    print('Right! My number is', correct, '! You guessed in', guesses, 'guesses!')
