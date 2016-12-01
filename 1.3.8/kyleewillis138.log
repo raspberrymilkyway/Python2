@@ -61,3 +61,12 @@ goguess()
 
 # Wed, 30 Nov 2016 09:35:12
 %logstop
+
+#so I'm editing the rest of this on github because I have like nothing left, but there's a few questions that I didn't quite finish...
+
+#11a. Guessing someone's birthday could take as many as 366 guesses, but would probably take less than 183.
+
+#It doesn't really explain what 'sorting a list' is, so should I just assume that that's putting the values in some order?
+#11b. If a list is unsorted when you try to go through it with binary search, you'll get a value that's not the middle (whatever the middle happens to be). It's basically finding the median.
+
+#11c. You get purple search history things in your search bar, the webpage might load faster, and when you open a new tab page, there's a little icon that shows this website.
