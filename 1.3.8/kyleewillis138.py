@@ -58,3 +58,18 @@ def goguess():
             print(haha, ' is too low.')
             guesses += 1
     print('Right! My number is', correct, '! You guessed in', guesses, 'guesses!')
+    
+def birthday(guess, actual):
+    '''The only way I could think of to do this would be like a 3.13 format, where 
+    the first number is the month and the second would be the date, so...
+    '''
+    print('Guess when my birthday is!')
+    total = 1
+    while guess != actual:
+        if guess > actual:
+            print(guess, ' is too late in the year.')
+            total += 1
+        if guess < actual:
+            print(guess, ' is too soon.')
+            total += 1
+    print('Hey, that is my birthday!', actual)
