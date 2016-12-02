@@ -1,0 +1,76 @@
+# IPython log file
+
+%cd "C:\Users\k.willis\Documents\Python\Review.1.3.1-1.3.8"
+# Fri, 02 Dec 2016 09:18:38
+#12/2
+
+# Fri, 02 Dec 2016 09:19:28
+thisString = 'HI!'
+# Fri, 02 Dec 2016 09:19:35
+thatSting = 
+# Fri, 02 Dec 2016 09:19:56
+thatSting = 'I am a string'
+# Fri, 02 Dec 2016 09:20:23
+#oops... I spelled string wrong...
+
+# Fri, 02 Dec 2016 09:21:56
+thatString = 'I am a string'
+# Fri, 02 Dec 2016 09:23:48
+otherString = thisString + '  ' + thatString
+# Fri, 02 Dec 2016 09:23:52
+otherString
+#[Out]# 'HI!  I am a string'
+# Fri, 02 Dec 2016 09:25:25
+otherString[5:]
+#[Out]# 'I am a string'
+# Fri, 02 Dec 2016 09:26:47
+otherString[:3]
+#[Out]# 'HI!'
+# Fri, 02 Dec 2016 09:29:47
+otherstring[12:15]
+# Fri, 02 Dec 2016 09:29:56
+otherString[12:15]
+#[Out]# 'str'
+# Fri, 02 Dec 2016 09:34:19
+def circleArea(radius):
+    return 3.14*radius**2
+# Fri, 02 Dec 2016 09:34:45
+circleArea(3)
+#[Out]# 28.26
+# Fri, 02 Dec 2016 09:39:51
+def cylinderVolume(radius, height):
+    return circleArea(radius)*height
+# Fri, 02 Dec 2016 09:40:32
+cylinderVolume(1,4)
+#[Out]# 12.56
+# Fri, 02 Dec 2016 09:40:42
+cylinderVolume(3,4)
+#[Out]# 113.04
+# Fri, 02 Dec 2016 09:43:55
+list1 = range(11)
+# Fri, 02 Dec 2016 09:43:58
+list1
+#[Out]# [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# Fri, 02 Dec 2016 09:45:21
+list2 = range(3,42,3)
+# Fri, 02 Dec 2016 09:45:24
+list2
+#[Out]# [3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39]
+# Fri, 02 Dec 2016 09:56:31
+def printLoop():
+    printAgain = 'yes'
+    while printAgain != 'no':
+        printAgain = raw_input('Do you want to print again?')
+        print('Muhahahahaha! The world is mine!')
+        
+# Fri, 02 Dec 2016 09:56:42
+printLoop()
+# Fri, 02 Dec 2016 10:01:31
+def printFive():
+    for each in range(5):
+        print('Elevators need therapy.')
+        
+# Fri, 02 Dec 2016 10:01:35
+printFive()
+# Fri, 02 Dec 2016 10:02:54
+% logstop
