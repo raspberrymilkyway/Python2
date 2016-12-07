@@ -1,4 +1,5 @@
 from Variables131138 import nameList
+import random
 
 def piglatin(names):
     pigLatinList = []
@@ -11,14 +12,19 @@ def piglatin(names):
             name += name[0] + 'ay'
             print name[1:]
             pigLatinList += name[1:]
-    return pigLatinList
+    return pigLatinList  
     
 def nameGuesser(names):
     beta = nameList
     beta.sort()
-    correct = rand.choice(names)
+    correct = random.choice(names)
     print('Hey, guess a name!')
     print beta
     guess = 42
     while guess != correct:
         guess = raw_input()
+        if guess < correct:
+            print 'The correct name is further down the list.'
+        if guess > correct:
+            print 'The correct name is before your guess.'
+    print 'Bravo! You guessed right!'
