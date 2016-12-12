@@ -29,3 +29,5 @@ runTournament([example2,example3])
 
 # Mon, 12 Dec 2016 09:58:34
 runTournament([example3,example4])
+# Mon, 12 Dec 2016 10:03:36
+%logstop
