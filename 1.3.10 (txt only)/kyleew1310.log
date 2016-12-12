@@ -1,0 +1,31 @@
+%cd "C:\Users\k.willis\Documents\Python\1.3.10 (txt only)"
+% logstart -ort kyleewillis1310.log append
+#12/12
+%run C:/Users/k.willis/Documents/GitHub/prisonersDilemma-3rd/team0.py
+test_move(b,c,b,c,c)
+test_move(1,1,1,1,1)
+%logstop
+# Mon, 12 Dec 2016 09:26:20
+#12/12
+
+# Mon, 12 Dec 2016 09:27:27
+%run C:/Users/k.willis/Documents/GitHub/prisonersDilemma-3rd/prisoners_dilemma.py# Mon, 12 Dec 2016 09:29:31
+print reports[3] [0]
+# Mon, 12 Dec 2016 09:30:31
+runTournament([example0,example2,example5)]
+# Mon, 12 Dec 2016 09:30:39
+runTournament([example0,example2,example5])
+# Mon, 12 Dec 2016 09:38:51
+runTournament([example0,example1,example2,example3,example4,example5,example6,example7,example8,])
+# Mon, 12 Dec 2016 09:38:57
+runTournament([example0,example1,example2,example3,example4,example5,example6,example7,])
+# Mon, 12 Dec 2016 09:39:40
+#this should be fun
+
+# Mon, 12 Dec 2016 09:41:23
+runTournament([example2,example3])
+# Mon, 12 Dec 2016 09:48:32
+#see planning....rtf for possible plans
+
+# Mon, 12 Dec 2016 09:58:34
+runTournament([example3,example4])
